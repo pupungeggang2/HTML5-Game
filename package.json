@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "electron": "^34.0.0",
+    "electron-forge": "^5.2.4"
+  }
+}
